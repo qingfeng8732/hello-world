@@ -1,2 +1,2 @@
 # hello-world
- a short description.
+ this is my first repository
